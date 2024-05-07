@@ -5,9 +5,9 @@ import { getStorage } from 'firebase/storage'
 
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  authDomain: 'tasty-treats-site.firebaseapp.com',
-  projectId: 'tasty-treats-site',
-  storageBucket: 'tasty-treats-site.appspot.com',
+  authDomain: process.env.FIREBASE_DOMAIN,
+  projectId: process.env.FIREBASE_PROJECT_ID,
+  storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
   messagingSenderId: process.env.FIREBASE_MSI,
   appId: process.env.APP_ID,
 }
