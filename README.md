@@ -18,8 +18,8 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 2. **Favorite Recipes:** Save your favorite recipes for quick access.
 3. **Comment on Recipes:** Share your thoughts and tips with other users.
 4. **Surprise Me!:** Get a random recipe suggestion for a delightful surprise.
-5. **Upload recipe image** Personalize your recipe with an optional image upload.
-6. **Choose color theme** Explore recipes with three light and three dark color themes.
+5. **Upload Recipe Image:** Personalize your recipe with an optional image upload.
+6. **Choose Color Theme:** Explore recipes with three light and three dark color themes.
 
 ### Technologies Used
 
@@ -51,13 +51,8 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 ![Dark Theme 3](/screenshots/tastyTreatsDark3.png "Dark Theme 3")
 ![Dark Theme 4](/screenshots/tastyTreatsDark4.png "Dark Theme 4")
 
->>>>>>> master
 For detailed documentation and contribution guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-<<<<<<< HEAD
 Enjoy exploring and creating delicious recipes with Tasty Treats! If you have any questions or feedback, feel free to [reach out](mailto:elenashatalova.it@gmail.com).
-=======
-Enjoy exploring and creating delicious recipes with Tasty Treats! If you have any questions or feedback, feel free to [reach out](mailto:elenashatalova.it@gmail.com).
->>>>>>> master
