@@ -21,7 +21,7 @@ Thank you for considering contributing to Tasty Treats! Here are some guidelines
 
 ## Feedback
 
-We welcome feedback and suggestions for improving Tasty Treats! Share your ideas or feature requests by opening an issue or reaching out to me.
+We welcome feedback and suggestions for improving Tasty Treats! Share your ideas or feature requests by opening an issue or reaching out to us.
 
 By contributing to this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
