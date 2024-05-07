@@ -37,8 +37,29 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 4. Start the development server: `npm start`
 5. Access the app at `http://localhost:3000`
 
+<<<<<<< HEAD
+=======
+## Color Themes
+
+### Light Themes
+![Light Theme 1](/screenshots/tastyTreatsLight1.png "Light Theme 1")
+![Light Theme 2](/screenshots/tastyTreatsLight2.png "Light Theme 2")
+![Light Theme 3](/screenshots/tastyTreatsLight3.png "Light Theme 3")
+![Light Theme 4](/screenshots/tastyTreatsLight4.png "Light Theme 4")
+
+### Dark Themes
+![Dark Theme 1](/screenshots/tastyTreatsDark1.png "Dark Theme 1")
+![Dark Theme 2](/screenshots/tastyTreatsDark2.png "Dark Theme 2")
+![Dark Theme 3](/screenshots/tastyTreatsDark3.png "Dark Theme 3")
+![Dark Theme 4](/screenshots/tastyTreatsDark4.png "Dark Theme 4")
+
+>>>>>>> master
 For detailed documentation and contribution guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
+<<<<<<< HEAD
 Enjoy exploring and creating delicious recipes with Tasty Treats! If you have any questions or feedback, feel free to [reach out](mailto:elenashatalova.it@gmail.com).
+=======
+Enjoy exploring and creating delicious recipes with Tasty Treats! If you have any questions or feedback, feel free to [reach out](mailto:elenashatalova.it@gmail.com).
+>>>>>>> master
