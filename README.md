@@ -37,8 +37,6 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 4. Start the development server: `npm start`
 5. Access the app at `http://localhost:3000`
 
-<<<<<<< HEAD
-=======
 ## Color Themes
 
 ### Light Themes
