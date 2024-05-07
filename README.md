@@ -19,6 +19,7 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 3. **Comment on Recipes:** Share your thoughts and tips with other users.
 4. **Surprise Me!:** Get a random recipe suggestion for a delightful surprise.
 5. **Upload recipe image** Personalize your recipe with an optional image upload.
+6. **Choose color theme** Explore recipes with three light and three dark color themes.
 
 ### Technologies Used
 
