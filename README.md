@@ -40,7 +40,7 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 ## Color Themes
 
 ### Light Themes
-![Light Theme 1](/screenshots/tastyTreatsLight1.png "Light Theme 1")
+![Light Theme 1](Tasty-Treats-App/screenshots/tastyTreatsLight1.png "Light Theme 1")
 ![Light Theme 2](/screenshots/tastyTreatsLight2.png "Light Theme 2")
 ![Light Theme 3](/screenshots/tastyTreatsLight3.png "Light Theme 3")
 ![Light Theme 4](/screenshots/tastyTreatsLight4.png "Light Theme 4")
