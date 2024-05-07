@@ -4,12 +4,12 @@ import { getAuth, fetchSignInMethodsForEmail } from 'firebase/auth'
 import { getStorage } from 'firebase/storage'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAmk2fY8Th-MVnH0DVlj7RSlrX_fxUzPao',
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: 'tasty-treats-site.firebaseapp.com',
   projectId: 'tasty-treats-site',
   storageBucket: 'tasty-treats-site.appspot.com',
-  messagingSenderId: '983341025423',
-  appId: '1:983341025423:web:e08a284754a288dc8f48fa',
+  messagingSenderId: process.env.FIREBASE_MSI,
+  appId: process.env.APP_ID,
 }
 
 // initialize Firebase
