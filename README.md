@@ -46,10 +46,10 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 ![Light Theme 4](/screenshots/tastyTreatsLight4.jpg "Light Theme 4")
 
 ### Dark Themes
-![Dark Theme 1](/screenshots/tastyTreatsDark1.png "Dark Theme 1")
-![Dark Theme 2](/screenshots/tastyTreatsDark2.png "Dark Theme 2")
-![Dark Theme 3](/screenshots/tastyTreatsDark3.png "Dark Theme 3")
-![Dark Theme 4](/screenshots/tastyTreatsDark4.png "Dark Theme 4")
+![Dark Theme 1](/screenshots/tastyTreatsDark1.jpg "Dark Theme 1")
+![Dark Theme 2](/screenshots/tastyTreatsDark2.jpg "Dark Theme 2")
+![Dark Theme 3](/screenshots/tastyTreatsDark3.jpg "Dark Theme 3")
+![Dark Theme 4](/screenshots/tastyTreatsDark4.jpg "Dark Theme 4")
 
 For detailed documentation and contribution guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
