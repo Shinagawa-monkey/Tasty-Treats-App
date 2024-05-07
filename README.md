@@ -31,7 +31,7 @@ Explore the delicious world of Tasty Treats by visiting [Tasty Treats App](https
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/tasty-treats.git`
+1. Clone the repository: `git clone https://github.com/Shinagawa-monkey/Tasty-Treats-App.git`
 2. Navigate to the project directory: `cd tasty-treats`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
